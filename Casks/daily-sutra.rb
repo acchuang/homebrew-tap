@@ -1,6 +1,6 @@
 cask "daily-sutra" do
-  version "1.1.4"
-  sha256 "4ccbc9e78ecffbed97b13497b07a7b05aa0d5e75168682d149854fdd88beb997"
+  version "1.2.0"
+  sha256 "69481952d408f7ee7392c088372c5fbe8967b3c94ce905f809e4d38343705f7c"
 
   url "https://github.com/acchuang/daily-sutra/releases/download/v#{version}/DailySutra.zip"
   name "Daily Sutra"
